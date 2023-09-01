@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
 <a href="https://www.cnblogs.com/bin1004/"><img src="https://img.shields.io/static/v1?label=Blog&message=Cnblogs&color=red"/></a>
 <a href="https://space.bilibili.com/341676831"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
 </p>
