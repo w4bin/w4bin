@@ -4,7 +4,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://home.cnblogs.com/bin1004)"><img src="https://img.shields.io/static/v1?label=Blog&message=Cnblogs&color=red"/></a>
+<a href="https://www.cnblogs.com/bin1004/"><img src="https://img.shields.io/static/v1?label=Blog&message=Cnblogs&color=red"/></a>
 <a href="https://space.bilibili.com/341676831"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
 </p>
 
